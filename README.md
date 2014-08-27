@@ -7,7 +7,6 @@ R function to create simple QQ plots, including shaded confidence intervals and 
 * p              ::  {REQUIRED} vector of P-values
 * main           ::  {optional} title of plot
 * subtitle       ::  {optional} subtitle of plot
-
 * outFile        ::  {optional} file name of PNG graphic to produce
 * outFile.width  ::  {optional} {default=700} width (pixels) of PNG graphic to produce
 * outFile.height ::  {optional} {default=500} height (pixels) of PNG graphic to produce
